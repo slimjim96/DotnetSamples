@@ -1,0 +1,13 @@
+C:\Projects\DotnetSamples\SqlLibrary\bin\Debug\net8.0\NLog.config
+C:\Projects\DotnetSamples\SqlLibrary\bin\Debug\net8.0\SqlLibrary.deps.json
+C:\Projects\DotnetSamples\SqlLibrary\bin\Debug\net8.0\SqlLibrary.dll
+C:\Projects\DotnetSamples\SqlLibrary\bin\Debug\net8.0\SqlLibrary.pdb
+C:\Projects\DotnetSamples\SqlLibrary\obj\Debug\net8.0\SqlLibrary.csproj.AssemblyReference.cache
+C:\Projects\DotnetSamples\SqlLibrary\obj\Debug\net8.0\SqlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotnetSamples\SqlLibrary\obj\Debug\net8.0\SqlLibrary.AssemblyInfoInputs.cache
+C:\Projects\DotnetSamples\SqlLibrary\obj\Debug\net8.0\SqlLibrary.AssemblyInfo.cs
+C:\Projects\DotnetSamples\SqlLibrary\obj\Debug\net8.0\SqlLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\DotnetSamples\SqlLibrary\obj\Debug\net8.0\SqlLibrary.dll
+C:\Projects\DotnetSamples\SqlLibrary\obj\Debug\net8.0\refint\SqlLibrary.dll
+C:\Projects\DotnetSamples\SqlLibrary\obj\Debug\net8.0\SqlLibrary.pdb
+C:\Projects\DotnetSamples\SqlLibrary\obj\Debug\net8.0\ref\SqlLibrary.dll

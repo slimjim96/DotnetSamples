@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DotnetSamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2332E8-43D4-40A3-A0D4-321052FF6A71}|SqlLibrary\\SqlLibrary.csproj|c:\\projects\\dotnetsamples\\sqllibrary\\queries\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2332E8-43D4-40A3-A0D4-321052FF6A71}|SqlLibrary\\SqlLibrary.csproj|solutionrelative:sqllibrary\\queries\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2332E8-43D4-40A3-A0D4-321052FF6A71}|SqlLibrary\\SqlLibrary.csproj|c:\\projects\\dotnetsamples\\sqllibrary\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2332E8-43D4-40A3-A0D4-321052FF6A71}|SqlLibrary\\SqlLibrary.csproj|solutionrelative:sqllibrary\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2332E8-43D4-40A3-A0D4-321052FF6A71}|SqlLibrary\\SqlLibrary.csproj|c:\\projects\\dotnetsamples\\sqllibrary\\dataverse\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2332E8-43D4-40A3-A0D4-321052FF6A71}|SqlLibrary\\SqlLibrary.csproj|solutionrelative:sqllibrary\\dataverse\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B973D5-DDE9-48F7-A93F-CC471B8CB010}|WebApp\\WebApp.csproj|c:\\projects\\dotnetsamples\\webapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B973D5-DDE9-48F7-A93F-CC471B8CB010}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B973D5-DDE9-48F7-A93F-CC471B8CB010}|WebApp\\WebApp.csproj|c:\\projects\\dotnetsamples\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B973D5-DDE9-48F7-A93F-CC471B8CB010}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B973D5-DDE9-48F7-A93F-CC471B8CB010}|WebApp\\WebApp.csproj|c:\\projects\\dotnetsamples\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74B973D5-DDE9-48F7-A93F-CC471B8CB010}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Projects\\DotnetSamples\\WebApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Projects\\DotnetSamples\\WebApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:21:23.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\DotnetSamples\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Projects\\DotnetSamples\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T01:18:52.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DotnetSamples\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\DotnetSamples\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:18:04.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\DotnetSamples\\SqlLibrary\\Queries\\UserQuery.cs",
+              "RelativeDocumentMoniker": "SqlLibrary\\Queries\\UserQuery.cs",
+              "ToolTip": "C:\\Projects\\DotnetSamples\\SqlLibrary\\Queries\\UserQuery.cs",
+              "RelativeToolTip": "SqlLibrary\\Queries\\UserQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:14:49.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Projects\\DotnetSamples\\SqlLibrary\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "SqlLibrary\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Projects\\DotnetSamples\\SqlLibrary\\Models\\UserModel.cs",
+              "RelativeToolTip": "SqlLibrary\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:14:11.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Projects\\DotnetSamples\\SqlLibrary\\Dataverse\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "SqlLibrary\\Dataverse\\DatabaseConfig.cs",
+              "ToolTip": "C:\\Projects\\DotnetSamples\\SqlLibrary\\Dataverse\\DatabaseConfig.cs",
+              "RelativeToolTip": "SqlLibrary\\Dataverse\\DatabaseConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:08:43.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
